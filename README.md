@@ -2,11 +2,6 @@
 
 > Automating frontend project setup and development workflows
 
-![Bash](https://img.shields.io/badge/bash-3.2%2B-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Setup Time](https://img.shields.io/badge/Setup_Time-12_minutes-success)
-![Supported OS](https://img.shields.io/badge/OS-Linux%20%7C%20macOS%20%7C%20WSL-lightgrey)
-
 ## Problem
 
 Frontend development teams face recurring productivity bottlenecks:
